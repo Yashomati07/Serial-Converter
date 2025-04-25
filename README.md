@@ -35,8 +35,7 @@ Use this board as a bridge for serial communication between TTL logic devices (l
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it—just give credit where it's due!
-
+This project is licensed under the **MIT License**.
 ---
 
 🛠️ Built with passion and precision using **KiCad 9**.
